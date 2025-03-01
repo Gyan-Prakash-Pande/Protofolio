@@ -1,0 +1,105 @@
+[
+    {
+        "name": "HTML - Frontend",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS - Frontend",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "JavaScript - Frontend",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "jQuery - Frontend",
+        "icon": "https://img.icons8.com/ios-filled/48/1169ae/jquery.png"
+    },
+    {
+        "name": "React - Frontend",
+        "icon": "https://img.icons8.com/officel/80/react.png"
+    },
+    {
+        "name": "PHP - Backend",
+        "icon": "https://img.icons8.com/offices/48/000000/php-logo.png"
+    },
+    {
+        "name": "Node.js - Backend",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Python - Backend",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MySQL - Backend",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "APIs - Backend",
+        "icon": "https://img.icons8.com/color/48/000000/api.png"
+    },
+    {
+        "name": "AWS - Cloud Platforms",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "GCP - Cloud Platforms",
+        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
+    },
+    {
+        "name": "Azure - Cloud Platforms",
+        "icon": "https://img.icons8.com/fluency/48/azure-1.png"
+    },
+    {
+        "name": "Git - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub - Tools",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    },
+    {
+        "name": "GitLab CI/CD - Tools",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/gitlab.png"
+    },
+    {
+        "name": "Jenkins - Tools",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/jenkins.png"
+    },
+    {
+        "name": "Docker - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+        "name": "Kubernetes - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+    },
+    {
+        "name": "Ansible - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/ansible.png"
+    },
+    {
+        "name": "Terraform - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/terraform.png"
+    },
+    {
+        "name": "Postman - Tools",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/postman.png"
+    },
+    {
+        "name": "Grafana - Tools",
+        "icon": "https://img.icons8.com/color/48/000000/grafana.png"
+    },
+    {
+        "name": "Tkinter - UI",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "Data Structures and Algorithms in C++",
+        "icon": "https://img.icons8.com/ios-filled/48/000000/code.png"
+    }
+    
+   
+   
+]

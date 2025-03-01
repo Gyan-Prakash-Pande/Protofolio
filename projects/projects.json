@@ -1,0 +1,32 @@
+[
+  {
+    "name": "AWB - Travel Platform",
+    "desc": "Designed a travel platform for solo travelers with 20+ features, including Live Chat, Profile Matching",
+    "image": "assets/images/projects/Capture.JPG",
+    "category": "PHP, MySQL, Azure API, Razorpay, JS, WebSockets, Jitsi Meet",
+    "links": {
+      "view": "https://github.com/Gyanprakash0/AWB",
+      "code": "https://github.com/Gyanprakash0/AWB"
+    }
+  },
+  {
+    "name": "Dialx",
+    "desc": "Developed a desktop application for monitoring IPPBX devices using Dailx software, reducing installation time by 80%.",
+    "image": "test",
+    "category": "Python, MQTT, SQLite, Matplotlib, APIs, Pub/Sub, Tkinter, IPPBX",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  {
+    "name": "",
+    "desc": ".",
+    "image": "",
+    "category": "Cloud",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  }
+]
