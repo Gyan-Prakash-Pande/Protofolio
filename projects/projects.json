@@ -12,7 +12,7 @@
   {
     "name": "Dialx",
     "desc": "Developed a desktop application for monitoring IPPBX devices using Dailx software, reducing installation time by 80%.",
-    "image": "test",
+    "image": "assets/images/projects/cdr_report.JPG",
     "category": "Python, MQTT, SQLite, Matplotlib, APIs, Pub/Sub, Tkinter, IPPBX",
     "links": {
       "view": "",
